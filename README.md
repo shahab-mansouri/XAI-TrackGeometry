@@ -18,7 +18,7 @@ This study explores the balance between accuracy and interpretability of Machine
 ---
 
 ## 🛠️ Methodology & Workflow
-The complete workflow is documented in the primary **Jupyter Notebook** (`XAI_TGD 26.06.2025.ipynb`):
+The complete workflow is documented in the primary **Jupyter Notebook** (`XAI_TGD.ipynb`):
 
 - **Data Preparation**
   - Loading and preprocessing
@@ -52,7 +52,7 @@ The training dataset used in this study is included in the repository:
 
 - `Training dataset.20150707.xlsx`
 
-It contains preprocessed track geometry measurement data used to train and evaluate the predictive models. See the notebook (`XAI_TGD 26.06.2025.ipynb`) for details on how it is loaded and processed.
+It contains preprocessed track geometry measurement data used to train and evaluate the predictive models. See the notebook (`XAI_TGD.ipynb`) for details on how it is loaded and processed.
 
 --- 
 ## ⚙️ Dependencies  

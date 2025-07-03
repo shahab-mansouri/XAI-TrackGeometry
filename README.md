@@ -55,6 +55,17 @@ The training dataset used in this study is included in the repository:
 It contains preprocessed track geometry measurement data used to train and evaluate the predictive models. See the notebook (`XAI_TGD.ipynb`) for details on how it is loaded and processed.
 
 --- 
+## 📁 Results
+
+All outputs generated during model training, evaluation, and explanation are stored in the `results/` folder. This includes:
+
+- SHAP visualizations (`.jpeg`)
+- LIME explanation plots
+- Model performance summaries (`.xlsx`)
+- Serialized explanation objects (`.joblib`)
+
+These files support the analysis presented in the paper .
+
 ## ⚙️ Dependencies  
 
 This project requires **Python 3.10**. You can install all necessary packages using the following command:

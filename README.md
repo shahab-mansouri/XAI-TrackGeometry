@@ -60,7 +60,7 @@ It contains preprocessed track geometry measurement data used to train and evalu
 All outputs generated during model training, evaluation, and explanation are stored in the `results/` folder. This includes:
 
 - SHAP visualizations (`.jpeg`)
-- LIME explanation plots
+- LIME explanation plots (`.jpeg`)
 - Model performance summaries (`.xlsx`)
 - Serialized explanation objects (`.joblib`)
 

@@ -52,6 +52,7 @@ This project requires **Python 3.10**. You can install all necessary packages us
 
 ```bash
 pip install -r requirements.txt
+```
 
 Required packages include:
 pandas

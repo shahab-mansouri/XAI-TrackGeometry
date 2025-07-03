@@ -18,7 +18,7 @@ This study explores the balance between accuracy and interpretability of Machine
 ---
 
 ## 🛠️ Methodology & Workflow
-The complete workflow is documented in the primary **Jupyter Notebook** (`XAI_TGD_LAST.ipynb`):
+The complete workflow is documented in the primary **Jupyter Notebook** (`XAI_TGD 26.06.2025.ipynb`):
 
 - **Data Preparation**
   - Loading and preprocessing

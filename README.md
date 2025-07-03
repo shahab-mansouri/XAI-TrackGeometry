@@ -52,7 +52,7 @@ The training dataset used in this study is included in the repository:
 
 - `Training dataset.20150707.xlsx`
 
-It contains preprocessed track geometry measurement data used to train and evaluate the predictive models. See the notebook (`XAI_TGD_LAST.ipynb`) for details on how it is loaded and processed.
+It contains preprocessed track geometry measurement data used to train and evaluate the predictive models. See the notebook (`XAI_TGD 26.06.2025.ipynb`) for details on how it is loaded and processed.
 
 --- 
 ## ⚙️ Dependencies  

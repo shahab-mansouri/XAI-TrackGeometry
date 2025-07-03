@@ -73,12 +73,12 @@ shap
 
 ---
 
-📞 Contact
+##📞 Contact
 Questions or collaboration inquiries: shahabaldin.mansouri@uniroma1.it
 
 ---
 
-📄 Copyright
+##📄 Copyright
 Copyright © 2025 Shahab A. Mansouri
 All rights reserved.
 Please contact the author for permission before reusing or distributing any part of this repository.

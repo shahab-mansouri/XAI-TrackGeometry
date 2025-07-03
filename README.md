@@ -75,10 +75,10 @@ shap
 
 ## 📞 Contact
 Questions or collaboration inquiries:
-shahabaldin.mansouri@uniroma1.it,
-rebecca.dziedzic@concordia.ca,
-riccardo.licciardello@uniroma1.it,
-vito.reno@cnr.it, 
+shahabaldin.mansouri@uniroma1.it ,
+rebecca.dziedzic@concordia.ca ,
+riccardo.licciardello@uniroma1.it ,
+vito.reno@cnr.it  
 
 ---
 

@@ -48,24 +48,32 @@ The complete workflow is documented in the primary **Jupyter Notebook** (`XAI_TG
 
 ## ⚙️ Dependencies  
 
-- Python 3.10
-- pandas, numpy
-- scikit-learn, xgboost
-- shap, lime
-- matplotlib
-
-
-You can install all required packages with:
+This project requires **Python 3.10**. You can install all necessary packages using the following command:
 
 ```bash
 pip install -r requirements.txt
 
----
+Required packages include:
+pandas
 
-##📞 Contact
-Questions or collaboration inquiries: shahabaldin.mansouri@uniroma1.it.
+numpy
 
-##📄 Copyright
+matplotlib
+
+joblib
+
+scikit-learn
+
+imbalanced-learn
+
+lime
+
+shap
+
+📞 Contact
+Questions or collaboration inquiries: shahabaldin.mansouri@uniroma1.it
+
+📄 Copyright
 Copyright © 2025 Shahab A. Mansouri
 All rights reserved.
 Please contact the author for permission before reusing or distributing any part of this repository.

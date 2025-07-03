@@ -54,6 +54,12 @@ The complete workflow is documented in the primary **Jupyter Notebook** (`XAI_TG
 - shap, lime
 - matplotlib
 
+
+You can install all required packages with:
+
+```bash
+pip install -r requirements.txt
+
 ---
 
 📞 Contact

@@ -46,6 +46,15 @@ The complete workflow is documented in the primary **Jupyter Notebook** (`XAI_TG
 
 ---
 
+ ## 📂 Dataset
+
+The training dataset used in this study is included in the repository:
+
+- `Training dataset.20150707.xlsx`
+
+It contains preprocessed track geometry measurement data used to train and evaluate the predictive models. See the notebook (`XAI_TGD_LAST.ipynb`) for details on how it is loaded and processed.
+
+--- 
 ## ⚙️ Dependencies  
 
 This project requires **Python 3.10**. You can install all necessary packages using the following command:
